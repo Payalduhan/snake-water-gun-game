@@ -22,7 +22,7 @@ Same choices → Draw 🤝
 
 Clone this repository
 
-git clone https://github.com/your-username/snake-water-gun.git
+git clone https://github.com/payalduhan/snake-water-gun.git
 
 
 Navigate into the project folder
