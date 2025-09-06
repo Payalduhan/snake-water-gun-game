@@ -18,21 +18,6 @@ Same choices → Draw 🤝
 ✔️ Score tracking (Player vs Computer)
 ✔️ Beginner-friendly Python code
 
-🛠️ Installation & Run
-
-Clone this repository
-
-git clone https://github.com/payalduhan/snake-water-gun.git
-
-
-Navigate into the project folder
-
-cd snake-water-gun
-
-
-Run the game
-
-python snake_water_gun.py
 
 📂 Project Structure
 snake-water-gun/
